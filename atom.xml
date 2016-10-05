@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PlayPay</title>
+  <subtitle>find enjoy</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-10-05T05:49:09.488Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>playpay</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2016/10/05/first/"/>
+    <id>http://yoursite.com/2016/10/05/first/</id>
+    <published>2016-10-05T04:12:57.156Z</published>
+    <updated>2016-10-05T05:49:09.488Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一篇"><a href="#第一篇" class="headerlink" title="第一篇"></a>第一篇</h2><blockquote>
+<p>折腾了半天终于搭建好了，果然人看待任何事物都是要看重颜值的!<br>国庆快乐！happy is important<br>Isn’t it right?</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;第一篇&quot;&gt;&lt;a href=&quot;#第一篇&quot; class=&quot;headerlink&quot; title=&quot;第一篇&quot;&gt;&lt;/a&gt;第一篇&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;折腾了半天终于搭建好了，果然人看待任何事物都是要看重颜值的!&lt;br&gt;国庆快乐！happy is impor
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
